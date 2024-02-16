@@ -40,7 +40,7 @@ public class Main {
                 }
             }
         } while (!done);
-        //output for random number TESTING
+        //output for random number when guess right and boolean done becomes true
         System.out.println(compNum);
     }
 }
